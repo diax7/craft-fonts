@@ -34,6 +34,7 @@ This library is meant to have the following:
 | BIZ UDMincho | Regular | Japanese document text (serif) | OFL-1.1 |
 | Noto Sans CJK SC | Regular | Simplified Chinese UI and document text (sans) | OFL-1.1 |
 | Noto Sans Arabic | Regular (variable: wdth, wght) | Arabic UI and document text (sans) | OFL-1.1 |
+| Noto Sans Thai | Regular (variable: wdth, wght) | Thai UI and document text (sans) | OFL-1.1 |
 | Amiri | Regular, Bold | Classic Naskh for books and Quranic text | OFL-1.1 |
 | Noto Kufi Arabic | Regular (variable: wght) | Arabic headings and signage (Kufi) | OFL-1.1 |
 | IBM Plex Sans Arabic | Light, Regular, Medium, SemiBold, Bold | Arabic UI and document text (sans) | OFL-1.1 |
